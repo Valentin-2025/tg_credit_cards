@@ -63,4 +63,6 @@ python3 card_bot.py
 
 ## Автор
 
-Валентин Ретюнский (email: retvaliv72@yandex.ru), (telegram: [@ValentinRet](https://t.me/ValentinRet))
+Валентин Ретюнский 
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:retvaliv72@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ValentinRet)
